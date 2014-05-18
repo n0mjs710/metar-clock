@@ -1,0 +1,2 @@
+metar>=1.4
+netifaces>=0.8
